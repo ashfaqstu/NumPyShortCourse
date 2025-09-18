@@ -1,0 +1,8 @@
+Install jupiter
+
+then in cmd past jupyter notebook 
+which will open the jupyter in your browser
+
+
+
+fist install pip install numpy
